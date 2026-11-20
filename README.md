@@ -19,7 +19,7 @@
  - £ replaced with |
  - ~ is not a dead key
 
-<img src="./layout.svg"/ width="750px">
+![](layout.svg)
 
 Create the new layout in your home folder:
 ```sh
